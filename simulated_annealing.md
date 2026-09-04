@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Simulated annealing - Settling on good enough but very quickly"
 permalink: /simulated_annealing
 ---
