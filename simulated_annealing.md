@@ -40,8 +40,9 @@ No need to look at the tables too closely, I’ll walk you through the relevant 
 |5     |           0.001 |6068.946325 |               0.003 |     3410.701741|  
 |6     |           0.001 |6335.504049 |               0.014 |     3449.754019|
 
-In the table above, we’re comparing the shortest routes found by the different algorithms using a variable number of Finnish cities. ![Finnish cities to visit](/media/simulated_annealing/tsp_finland.png)
-The data we'll be using,
+In the table above, we’re comparing the shortest routes found by the different algorithms using a variable number of Finnish cities. The data we'll be using.
+
+[Finnish cities to visit](/media/simulated_annealing/tsp_finland.png)
 
 The cost is the length of the route that visits every city and returns back to the starting city. It is calculated directly from the distance between the cities using the decimal form of the latitude and longitude coordinates. It’s hard to get a good intuitive meaning behind the cost figure. Just think “lower is better”, and we’ll be alright.
 
