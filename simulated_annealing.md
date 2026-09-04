@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Simulated annealing - Settling on good enough but very quickly"
 permalink: /simulated_annealing
-
+---
 # Simulated annealing - Settling on good enough but very quickly
 
 ***What's in common with garbage disposal, delivery robots, and Victorian era computer science problems? Finding a short path powers real world industries from microchip manufacturing to logistics. Unfortunately the solution is not as straightforward as the problem, and that is where simulated annealing comes in.*** 
