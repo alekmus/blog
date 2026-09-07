@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Yet another IT blog
+title: Yet another tech blog
 description: Random blog posts about whatever interests me in tech at the moment, maybe, eventually
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
